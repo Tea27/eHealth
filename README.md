@@ -25,7 +25,8 @@ University undergraduate final thesis. Web application that would be used in gen
 
 ## Database Model
 
-![image](https://github.com/Tea27/eHealth/assets/79653091/d286ae66-76c4-477a-91b4-45f66d463d2e)
+![image](https://github.com/Tea27/eHealth/assets/79653091/03b2be5a-826f-4f0f-a12d-adbe903a7f11)
+
 
 ## Getting Started
 
